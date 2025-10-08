@@ -15,3 +15,25 @@ determine the most accurate model for predicting water potability.
 prediction accuracy and reliability. 
   5. To provide insights and recommendations for water quality management by presenting the results in 
 a clear, interactive, and user-friendly format, assisting decision-makers and researchers.
+
+# Dataset 
+The dataset contains information about various water quality parameters used to determine whether water 
+is potable (safe to drink) or non-potable (unsafe). It was sourced from Kaggle and consists of the 
+following attributes: 
+1. Numerical Features: 
+o PH: pH value of water, indicating acidity or alkalinity. Safe drinking water typically has pH 
+values between 6.5 and 8.5. 
+o Hardness: Measures the calcium and magnesium salts in water, affecting taste and scaling of 
+pipes. 
+o Solids (TDS): Total dissolved solids present in water. High TDS may indicate contamination. 
+o Chloramines: Disinfectant used to treat water. Excess levels can be harmful. 
+o Sulphate: High sulphate levels can cause water to have a bitter taste and may lead to health 
+issues. 
+o Conductivity: Ability of water to conduct electricity, related to dissolved ion concentration. 
+o Organic carbon: Organic matter present in water, which can indicate pollution. 
+o Trihalomethanes: Chemical compounds that may form as by-products of water disinfection. 
+o Turbidity: Measure of water clarity. High turbidity may indicate contamination. 
+2. Target Variable:  
+o Potability 
+• 1 → Potable (Safe for drinking) 
+• 0 → Non-potable (Unsafe for drinking)
