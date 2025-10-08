@@ -21,19 +21,20 @@ The dataset contains information about various water quality parameters used to 
 is potable (safe to drink) or non-potable (unsafe). It was sourced from Kaggle and consists of the 
 following attributes: 
 1. Numerical Features: 
-  PH: pH value of water, indicating acidity or alkalinity. Safe drinking water typically has pH 
+  1. PH: pH value of water, indicating acidity or alkalinity. Safe drinking water typically has pH 
 values between 6.5 and 8.5.
-o Hardness: Measures the calcium and magnesium salts in water, affecting taste and scaling of 
+  2. Hardness: Measures the calcium and magnesium salts in water, affecting taste and scaling of 
 pipes. 
-o Solids (TDS): Total dissolved solids present in water. High TDS may indicate contamination. 
-o Chloramines: Disinfectant used to treat water. Excess levels can be harmful. 
-o Sulphate: High sulphate levels can cause water to have a bitter taste and may lead to health 
+ 3. Solids (TDS): Total dissolved solids present in water. High TDS may indicate contamination. 
+ 4. Chloramines: Disinfectant used to treat water. Excess levels can be harmful. 
+ 5. Sulphate: High sulphate levels can cause water to have a bitter taste and may lead to health 
 issues. 
-o Conductivity: Ability of water to conduct electricity, related to dissolved ion concentration. 
-o Organic carbon: Organic matter present in water, which can indicate pollution. 
-o Trihalomethanes: Chemical compounds that may form as by-products of water disinfection. 
-o Turbidity: Measure of water clarity. High turbidity may indicate contamination. 
-3. Target Variable:  
+ 6. Conductivity: Ability of water to conduct electricity, related to dissolved ion concentration. 
+ 7. Organic carbon: Organic matter present in water, which can indicate pollution. 
+ 8. Trihalomethanes: Chemical compounds that may form as by-products of water disinfection. 
+ 9. Turbidity: Measure of water clarity. High turbidity may indicate contamination.
+ 
+2. Target Variable:  
 o Potability 
 • 1 → Potable (Safe for drinking) 
 • 0 → Non-potable (Unsafe for drinking)
