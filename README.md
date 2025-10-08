@@ -21,7 +21,7 @@ The dataset contains information about various water quality parameters used to 
 is potable (safe to drink) or non-potable (unsafe). It was sourced from Kaggle and consists of the 
 following attributes: 
 1. Numerical Features: 
-  1. PH: pH value of water, indicating acidity or alkalinity. Safe drinking water typically has pH 
+  1.1. PH: pH value of water, indicating acidity or alkalinity. Safe drinking water typically has pH 
 values between 6.5 and 8.5.
   2. Hardness: Measures the calcium and magnesium salts in water, affecting taste and scaling of 
 pipes. 
