@@ -22,7 +22,7 @@ is potable (safe to drink) or non-potable (unsafe). It was sourced from Kaggle a
 following attributes: 
 1. Numerical Features: 
 o PH: pH value of water, indicating acidity or alkalinity. Safe drinking water typically has pH 
-values between 6.5 and 8.5. 
+values between 6.5 and 8.5.
 o Hardness: Measures the calcium and magnesium salts in water, affecting taste and scaling of 
 pipes. 
 o Solids (TDS): Total dissolved solids present in water. High TDS may indicate contamination. 
@@ -33,7 +33,7 @@ o Conductivity: Ability of water to conduct electricity, related to dissolved io
 o Organic carbon: Organic matter present in water, which can indicate pollution. 
 o Trihalomethanes: Chemical compounds that may form as by-products of water disinfection. 
 o Turbidity: Measure of water clarity. High turbidity may indicate contamination. 
-2. Target Variable:  
+3. Target Variable:  
 o Potability 
 • 1 → Potable (Safe for drinking) 
 • 0 → Non-potable (Unsafe for drinking)
