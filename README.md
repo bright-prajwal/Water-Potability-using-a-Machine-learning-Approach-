@@ -36,5 +36,6 @@ issues.
 
 # Target Variable: 
 o Potability 
-• 1 → Potable (Safe for drinking) 
+• 1 → Potable (Safe for drinking)
+
 • 0 → Non-potable (Unsafe for drinking)
