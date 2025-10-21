@@ -34,7 +34,7 @@ issues.
  8. Trihalomethanes: Chemical compounds that may form as by-products of water disinfection. 
  9. Turbidity: Measure of water clarity. High turbidity may indicate contamination.
 
-# 2  Target Variable: 
+# Target Variable: 
 o Potability 
 • 1 → Potable (Safe for drinking) 
 • 0 → Non-potable (Unsafe for drinking)
